@@ -1,2 +1,2 @@
 # ejemplo-git-pull
-Prueba pull
+Repositorio para Prueba pull
